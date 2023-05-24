@@ -6,11 +6,11 @@ Python solution to Techgladiators "Magic Wand" Problem
 
 Sample Input:
 
-_5 3
+5 3
 
 1 2 3 4 5
 
-5 2 1_
+5 2 1
 
 Where **5**(N in main.py) is the length of the first array and **3**(M in main.py) is the length of the queries array
 
