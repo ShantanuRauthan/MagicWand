@@ -4,7 +4,8 @@ Python solution to Techgladiators "Magic Wand" Problem
 
 **Explanation:**
 
-Sample Input
+Sample Input:
+
 _5 3
 
 1 2 3 4 5
@@ -17,7 +18,8 @@ Where **5**(N in main.py) is the length of the first array and **3**(M in main.p
 
 5 2 1 are the 3 elements entered for the 2nd array (queries in main.py)
 
-Output
+Output:
+
 _10 7 10_  (cost[] in main.py)
 
 Now
